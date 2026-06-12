@@ -81,25 +81,6 @@ An interactive web application was developed using **Gradio**.
 * Confidence Score Display
 * User-Friendly Interface
 
-
-## 📷 Project Screenshots
-
-### Learning Curve
-
-![Learning Curve](screenshots/learning_curve.png)
-
-### Confusion Matrix
-
-![Confusion Matrix](screenshots/confusion_matrix.png)
-
-### Classification Report
-
-![Classification Report](screenshots/classification_report.png)
-
-### Gradio Application
-
-![Gradio Demo](screenshots/gradio_demo.png)
-
 ## Technologies Used
 
 * Python
